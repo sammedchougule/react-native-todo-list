@@ -1,15 +1,16 @@
 {
   "expo": {
-    "name": "todoList",
-    "slug": "todoList",
+    "name": "Todo List",
+    "slug": "todo-list-app",
+    "description": "This is an todo list app build on react-native. You can add and delete lists.",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/app-icon.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/app-loader.jpg",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#E8EAED"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
